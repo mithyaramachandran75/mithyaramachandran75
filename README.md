@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="img" />
+<p align="center"><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="img" /> </p>
 <h1 align="center">Hi 👋, I'm Mithya</h1>
 <h3 align="center">Full Stack Web Developer with good knowledge of frontend and backend technologies like ReactJs, NodeJs , MongoDB , Redux , HTML , CSS and Javascript </h3>
 
