@@ -1,5 +1,5 @@
+<h2 align="center">Hi 👋, I'm Mithya</h2>
 <p align="center"><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="img" /> </p>
-<h1 align="center">Hi 👋, I'm Mithya</h1>
 <h3 align="center">Full Stack Web Developer with good knowledge of frontend and backend technologies like ReactJs, NodeJs , MongoDB , Redux , HTML , CSS and Javascript </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithyaramachandran75&label=Profile%20views&color=0e75b6&style=flat" alt="mithyaramachandran75" /> </p>
